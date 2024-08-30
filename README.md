@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  I'm a passionate Full-Stack Developer focusing on creating efficient and scalable web applications. I love leveraging modern technologies like <b>Java, JavaScript, and Python</b> to build cool stuff. I'm all about clean code, solid OOP principles, and solving complex challenges.
+  Passionate Full-Stack Developer focused on creating efficient and scalable web applications. Skilled in leveraging modern technologies like Java, JavaScript, and Python to develop innovative solutions. Emphasizes clean code, solid OOP principles, and solving complex challenges creatively.
 </p>
 
 ---
