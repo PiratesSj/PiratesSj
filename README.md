@@ -29,7 +29,7 @@
 
 ### 🚀 **Projects**
 
-- **[Hotel Management Platform](https://github.com/PiratesSj/Hotel-Management)**  
+- **[Hotel Management Platform](https://github.com/PiratesSj/Hotel-Management-Front-End)**  
   🏨 A comprehensive platform for hotel and restaurant bookings. Integrated Stripe API, JWT for security, and MongoDB Atlas for data storage.
 
 - **[Full-Stack Journal App](https://github.com/PiratesSj/JournalApp)**  
