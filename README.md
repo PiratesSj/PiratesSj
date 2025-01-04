@@ -35,7 +35,7 @@
 - **[Full-Stack Journal App](https://github.com/PiratesSj/JournalApp)**  
   📓 A full-stack journal app using React for the front-end and Spring Boot for the back-end. Features Spring Authentication and MongoDB Atlas.
 
-- **[React-based Food Delivery Website](https://github.com/PiratesSj/Tasty-Burger)**  
+- **[React-based Food Delivery Website](https://github.com/PiratesSj/Food-React-App)**  
   🍔 A React-based food delivery site with a search bar, shopping cart, and secure payment gateway.
 
 ---
